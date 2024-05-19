@@ -1,0 +1,18 @@
+{
+  "id": "log-hooks",
+  "title": "Log Hooks",
+  "description": "For devs: Shows all uses of Hooks.call and Hooks.callAll in the console.",
+  "authors": [
+    {
+      "name": "Jeremy Glebe",
+      "email": "jeremyglebe@gmail.com"
+    }
+  ],
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {},
+  "esmodules": ["scripts/module.js"]
+}

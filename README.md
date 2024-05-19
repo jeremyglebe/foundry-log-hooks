@@ -1,0 +1,1 @@
+Module Manifest (for installing): [https://github.com/jeremyglebe/foundry-log-hooks/releases/latest/download/module.json](https://github.com/jeremyglebe/foundry-log-hooks/releases/latest/download/module.json)
